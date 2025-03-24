@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Hello, World!!!
-=======
 Hello, World! Hello, World!
->>>>>>> 15ca58f (second commit)
+
